@@ -6,3 +6,5 @@ Step by step
 4. cp .env.example .env
 5. docker exec -it laravel-php bash
 6. php artisan db:seed
+
+7. go to http://localhost:8080
